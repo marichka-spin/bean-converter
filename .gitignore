@@ -1,0 +1,5 @@
+# Converter IDEA
+target/
+.idea/
+converter.iml
+converter.log*
